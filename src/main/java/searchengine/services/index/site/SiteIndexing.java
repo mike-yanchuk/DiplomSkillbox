@@ -1,6 +1,8 @@
-package searchengine.services.index;
+package searchengine.services.index.site;
 
+import lombok.RequiredArgsConstructor;
 import lombok.SneakyThrows;
+import lombok.extern.slf4j.Slf4j;
 
 import java.io.File;
 import java.io.FileNotFoundException;
@@ -10,34 +12,31 @@ import java.util.concurrent.atomic.AtomicLong;
 
 import static java.lang.System.currentTimeMillis;
 
-public class SiteIndexing {
-    public SiteIndexing(String name, String url) {
-        this.url = url;
-        this.name = name;
-    }
+
+@RequiredArgsConstructor
+@Slf4j
+public class SiteIndexing  {
+
+    private final String url;
+    private final String name;
 
 
-    public static String name;
-    public static String url;
-    public static String nameFile = "skillbox_ru";
-    public static final StringBuilder stringBuilder = new StringBuilder();
-    public static final String pathFile = "filesSiteMap/";
-    public static AtomicLong startOfTime = new AtomicLong();
-
-
-    @lombok.SneakyThrows
-    public static void main(String[] args) {
+    public void indexing() {
+        AtomicLong startOfTime = new AtomicLong();
+        String pathFile = "fileSiteMap/";
+        String nameFile = name.replaceAll("\\.", "_");
+        log.info("Indexing site: {} - {}", name, url);
         MapSite recursiveTask = new MapSite(url);
         int core = Runtime.getRuntime().availableProcessors();
         startOfTime.set(System.currentTimeMillis());
-        String fullURL = new ForkJoinPool(20).invoke(recursiveTask);
+        String fullURL = new ForkJoinPool(core).invoke(recursiveTask);
         System.out.println();
-
-        fileWriter(fullURL);
+        fileWriter(fullURL, pathFile, nameFile, startOfTime);
     }
 
     @SneakyThrows
-    public static void fileWriter(String string) {
+    public void fileWriter(String string, String pathFile, String nameFile, AtomicLong startOfTime) {
+        log.info("Запись файла {}", name);
         String pathName = pathFile.concat(nameFile).concat(".txt");
         File file = new File(pathName);
 
@@ -52,7 +51,11 @@ public class SiteIndexing {
 
         long allTimeStop = (currentTimeMillis() - startOfTime.get()) / 1_000;
 
-        System.out.printf("Выполнена запись структуры сайта %s за %d секунд: %s%n", url, allTimeStop, file.getName());
+        log.info("Выполнена запись структуры сайта {} за {} секунд: {}", url, allTimeStop, file.getName());
     }
 
 }
+
+
+
+

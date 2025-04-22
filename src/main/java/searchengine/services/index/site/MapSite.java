@@ -1,5 +1,6 @@
-package searchengine.services.index;
+package searchengine.services.index.site;
 
+import lombok.extern.slf4j.Slf4j;
 import org.apache.commons.lang3.StringUtils;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
@@ -12,6 +13,7 @@ import java.util.List;
 import java.util.concurrent.CopyOnWriteArrayList;
 import java.util.concurrent.RecursiveTask;
 
+@Slf4j
 public class MapSite extends RecursiveTask<String> {
     private String path;
     private static final CopyOnWriteArrayList<String> WRITE_ARRAY_LIST = new CopyOnWriteArrayList<>();
@@ -27,6 +29,7 @@ public class MapSite extends RecursiveTask<String> {
 
     @Override
     protected String compute() {
+        log.info("Compute MapSite..." + path);
         String stringUtils = StringUtils.repeat('\t',
                 path.lastIndexOf("/") != path.length() - 1
                         ? StringUtils.countMatches(path, "/") - 2
