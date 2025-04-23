@@ -2,6 +2,7 @@ package searchengine.model;
 
 import lombok.Getter;
 import lombok.Setter;
+import org.springframework.beans.factory.annotation.Autowired;
 
 import javax.persistence.*;
 import java.time.Instant;
@@ -10,8 +11,10 @@ import java.time.Instant;
 @Setter
 @Entity
 @Table(name = "site")
-public class Site {
+public class SiteModel {
+
     @Id
+    @GeneratedValue(strategy = GenerationType.AUTO)
     @Column(name = "id", nullable = false)
     private Integer id;
 
@@ -22,7 +25,6 @@ public class Site {
     @Column(name = "status_time", nullable = false)
     private Instant statusTime;
 
-    @Lob
     @Column(name = "last_error")
     private String lastError;
 

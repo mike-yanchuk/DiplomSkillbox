@@ -3,10 +3,14 @@ package searchengine.services.index.site;
 import lombok.RequiredArgsConstructor;
 import lombok.SneakyThrows;
 import lombok.extern.slf4j.Slf4j;
+import searchengine.model.SiteModel;
+import searchengine.model.Status;
+import searchengine.repository.RepositorySite;
 
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.PrintWriter;
+import java.time.Instant;
 import java.util.concurrent.ForkJoinPool;
 import java.util.concurrent.atomic.AtomicLong;
 
@@ -19,14 +23,15 @@ public class SiteIndexing  {
 
     private final String url;
     private final String name;
-
+    private final SiteModel siteModel;
+    private final RepositorySite repositorySite;
 
     public void indexing() {
         AtomicLong startOfTime = new AtomicLong();
         String pathFile = "fileSiteMap/";
         String nameFile = name.replaceAll("\\.", "_");
         log.info("Indexing site: {} - {}", name, url);
-        MapSite recursiveTask = new MapSite(url);
+        MapSite recursiveTask = new MapSite(url, siteModel.getId());
         int core = Runtime.getRuntime().availableProcessors();
         startOfTime.set(System.currentTimeMillis());
         String fullURL = new ForkJoinPool(core).invoke(recursiveTask);
@@ -37,6 +42,9 @@ public class SiteIndexing  {
     @SneakyThrows
     public void fileWriter(String string, String pathFile, String nameFile, AtomicLong startOfTime) {
         log.info("Запись файла {}", name);
+        siteModel.setStatus(Status.INDEXED);
+        siteModel.setStatusTime(Instant.now());
+        repositorySite.save(siteModel);
         String pathName = pathFile.concat(nameFile).concat(".txt");
         File file = new File(pathName);
 

@@ -9,17 +9,17 @@ import javax.persistence.*;
 @Setter
 @Entity
 @Table(name = "page")
-public class Page {
+public class PageModel {
     @Id
     @Column(name = "id", nullable = false)
     private Integer id;
 
     @ManyToOne(fetch = FetchType.LAZY, optional = false)
     @JoinColumn(name = "site_id", nullable = false)
-    private Site site;
+    private SiteModel site;
 
     @Column(name = "path", nullable = false)
-    private Integer path;
+    private String path;
 
     @Column(name = "code", nullable = false)
     private Integer code;
