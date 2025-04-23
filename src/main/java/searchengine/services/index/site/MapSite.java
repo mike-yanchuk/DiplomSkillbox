@@ -7,7 +7,12 @@ import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
+import java.io.File;
+import java.io.FileNotFoundException;
 import java.io.IOException;
+import java.io.PrintWriter;
+import java.nio.file.Files;
+import java.nio.file.Path;
 import java.util.Comparator;
 import java.util.List;
 import java.util.concurrent.CopyOnWriteArrayList;
@@ -19,7 +24,7 @@ public class MapSite extends RecursiveTask<String> {
     private static final CopyOnWriteArrayList<String> WRITE_ARRAY_LIST = new CopyOnWriteArrayList<>();
     private static final String CSS_QUERY = "a[href]";
     private static final String ATTRIBUTE_KEY = "href";
-
+    private static final String pathDocument = "fileDocument/";
 
 
     public MapSite(String path) {
@@ -29,7 +34,7 @@ public class MapSite extends RecursiveTask<String> {
 
     @Override
     protected String compute() {
-        log.info("Compute MapSite..." + path);
+
         String stringUtils = StringUtils.repeat('\t',
                 path.lastIndexOf("/") != path.length() - 1
                         ? StringUtils.countMatches(path, "/") - 2
@@ -50,6 +55,7 @@ public class MapSite extends RecursiveTask<String> {
                         && !WRITE_ARRAY_LIST.contains(attributeUrl)
                         && !attributeUrl.contains("#")) {
                     MapSite linkExecutor = new MapSite(attributeUrl);
+                    writeDocument(doc);
                     linkExecutor.fork();
                     mapSites.add(linkExecutor);
                     WRITE_ARRAY_LIST.add(attributeUrl);
@@ -68,5 +74,43 @@ public class MapSite extends RecursiveTask<String> {
             sb.append(link.join());
         }
         return sb.toString();
+    }
+
+    public void writeDocument(Document doc) {
+
+        String information = doc.outerHtml();
+        String name = path.substring(path.indexOf("//") + 2)
+                .replace("\\", "")  // Удаляем двоеточия
+                .replace("/", "_")
+                .replace("<", "")
+                .replace(">", "")
+                .replace("*", "")
+                .replace("|", "")
+                .replace(" ", "_")
+                .replace("\"", "")
+                .replace(":", "")
+                .replace("?", "")
+                .replace(".", "_")
+                // Заменяем пробелы на подчёркивания
+                + ".txt";
+        if (!Files.exists(Path.of(pathDocument))) {
+            try {
+                Thread.sleep(200);
+            } catch (InterruptedException e) {
+                throw new RuntimeException(e);
+            }
+        }
+        File file = new File(pathDocument + name);
+        PrintWriter writer = null;
+        try {
+            writer = new PrintWriter(file);
+        } catch (FileNotFoundException e) {
+            log.error(e.getMessage());
+            throw new RuntimeException(e);
+        }
+
+        writer.write(information);
+        writer.flush();
+
     }
 }

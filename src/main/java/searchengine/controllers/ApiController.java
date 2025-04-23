@@ -32,4 +32,9 @@ public class ApiController {
     public void startIndexing() {
         startIndexing.startIndexing();
     }
+
+    @GetMapping("/stopIndexing")
+    public void stopIndexing() {
+        startIndexing.stopIndexing();
+    }
 }
