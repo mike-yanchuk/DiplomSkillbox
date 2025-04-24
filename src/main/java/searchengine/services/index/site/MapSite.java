@@ -8,6 +8,7 @@ import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 import searchengine.model.PageModel;
 import searchengine.model.SiteModel;
+import searchengine.repository.RepositoryPage;
 
 import java.io.File;
 import java.io.FileNotFoundException;
@@ -23,17 +24,20 @@ import java.util.concurrent.RecursiveTask;
 @Slf4j
 public class MapSite extends RecursiveTask<String> {
     private String path;
-    private Integer id;
+    private SiteModel siteModel;
     private String name;
+    private RepositoryPage repositoryPage;
+
     private static final CopyOnWriteArrayList<String> WRITE_ARRAY_LIST = new CopyOnWriteArrayList<>();
     private static final String CSS_QUERY = "a[href]";
     private static final String ATTRIBUTE_KEY = "href";
     private static final String pathDocument = "fileDocument/";
 
 
-    public MapSite(String path, Integer id) {
+    public MapSite(String path, SiteModel siteModel, RepositoryPage repositoryPage) {
         this.path = path.trim();
-        this.id = id;
+        this.siteModel = siteModel;
+        this.repositoryPage = repositoryPage;
     }
 
 
@@ -52,15 +56,18 @@ public class MapSite extends RecursiveTask<String> {
 
         try {
             Thread.sleep(150);
-            doc = Jsoup.connect(path).ignoreContentType(true).userAgent("Mozilla/5.0").get();
+            doc = Jsoup.connect(path).ignoreContentType(true)
+                    .userAgent("Mozilla/5.0 (Windows; U; WindowsNT 5.1; en-US; rv1.8.1.6) Gecko/20070725 Firefox/2.0.0.6")
+                    .referrer("http://www.google.com")
+                    .get();;
             elements = doc.select(CSS_QUERY);
             for (Element element : elements) {
                 String attributeUrl = element.absUrl(ATTRIBUTE_KEY);
                 if (!attributeUrl.isEmpty() && attributeUrl.startsWith(this.path)
                         && !WRITE_ARRAY_LIST.contains(attributeUrl)
                         && !attributeUrl.contains("#")) {
-                    MapSite linkExecutor = new MapSite(attributeUrl, id);
-                    writeDocument(doc, path);
+                    MapSite linkExecutor = new MapSite(attributeUrl, siteModel, repositoryPage);
+                    writeDocument(doc, path, siteModel);
                     linkExecutor.fork();
                     mapSites.add(linkExecutor);
                     WRITE_ARRAY_LIST.add(attributeUrl);
@@ -81,9 +88,14 @@ public class MapSite extends RecursiveTask<String> {
         return sb.toString();
     }
 
-    public void writeDocument(Document doc, String path) {
+    public void writeDocument(Document doc, String path, SiteModel siteModel) {
         String information = doc.outerHtml();
         PageModel pageModel = new PageModel();
         pageModel.setPath(path);
+        pageModel.setContent(information);
+        pageModel.setCode(200);
+        pageModel.setSite(siteModel);
+
+        repositoryPage.save(pageModel);
     }
 }

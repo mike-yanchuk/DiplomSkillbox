@@ -8,6 +8,7 @@ import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 import searchengine.config.Site;
 import searchengine.config.SitesList;
+import searchengine.model.PageModel;
 import searchengine.model.SiteModel;
 import searchengine.model.Status;
 import searchengine.repository.RepositoryPage;
@@ -30,6 +31,8 @@ import java.util.concurrent.Executors;
 public class StartIndexing {
     private final SitesList sitesList;
     private final RepositorySite repositorySite;
+    private final RepositoryPage repositoryPage;
+
 
     @Transactional
     public void startIndexing() {
@@ -48,7 +51,7 @@ public class StartIndexing {
             String name = site.getName();
             String url = site.getUrl();
             SiteModel siteModel = saveDB(name, url);
-            service.execute(() -> new SiteIndexing(url, name, siteModel, repositorySite).indexing());
+            service.execute(() -> new SiteIndexing(url, name, siteModel, repositorySite, repositoryPage).indexing());
         }
     }
 
@@ -61,6 +64,8 @@ public class StartIndexing {
         if (repositorySite.findByUrl(url) != null) {
             log.info("delete site {}", url);
             SiteModel siteModel = repositorySite.findByUrl(url);
+            List<PageModel> pageModel = repositoryPage.findBySiteId(siteModel.getId());
+            repositoryPage.deleteAll(pageModel);
             repositorySite.delete(siteModel);
         }
         SiteModel siteModel = new SiteModel();

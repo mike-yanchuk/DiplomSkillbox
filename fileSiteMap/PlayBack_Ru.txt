@@ -1,30 +1,17 @@
 https://playback.ru
 https://playback.ru
-https://playback.ru/
-	https://playback.ru/basket.html
-		https://playback.ru/catalog/1300.html
-		https://playback.ru/catalog/1302.html
 		https://playback.ru/catalog/1303.html
 		https://playback.ru/catalog/1304.html
 		https://playback.ru/catalog/1305.html
 		https://playback.ru/catalog/1307.html
-		https://playback.ru/catalog/1308.html
 		https://playback.ru/catalog/1311.html
 		https://playback.ru/catalog/1312.html
 		https://playback.ru/catalog/1314.html
 		https://playback.ru/catalog/1315.html
 		https://playback.ru/catalog/1317.html
 		https://playback.ru/catalog/1318.html
-		https://playback.ru/catalog/1329.html
-								https://playback.ru/catalog/1329.html/brand/0/sort/1/page/1
-		https://playback.ru/catalog/1429.html
-								https://playback.ru/catalog/1429.html/brand/0/sort/0/page/1
-								https://playback.ru/catalog/1429.html/brand/0/sort/1/page/1
-								https://playback.ru/catalog/1429.html/brand/53/sort/0/page/1
-								https://playback.ru/catalog/1429.html/brand/91/sort/0/page/1
 		https://playback.ru/catalog/1507.html
 		https://playback.ru/catalog/1508.html
-		https://playback.ru/catalog/1511.html
 		https://playback.ru/catalog/1622.html
 		https://playback.ru/catalog/1626.html
 								https://playback.ru/catalog/1626.html/brand/0/sort/1/page/1
@@ -53,8 +40,6 @@ https://playback.ru/
 								https://playback.ru/catalog/665.html/brand/610/sort/0/page/1
 		https://playback.ru/catalog/805.html
 								https://playback.ru/catalog/805.html/brand/0/sort/1/page/1
-	https://playback.ru/contacts.html
-	https://playback.ru/dostavka.html
 	https://playback.ru/payment.html
 	https://playback.ru/pickup.html
 	https://playback.ru/privacy_policy.html
@@ -64,6 +49,87 @@ https://playback.ru/
 		https://playback.ru/product/1125199.html
 		https://playback.ru/product/1125211.html
 		https://playback.ru/product/1125283.html
+		https://playback.ru/product/1125607.html
+		https://playback.ru/product/1125638.html
+		https://playback.ru/product/1125655.html
+		https://playback.ru/product/1125657.html
+		https://playback.ru/product/1125664.html
+		https://playback.ru/product/1125834.html
+		https://playback.ru/product/1125835.html
+		https://playback.ru/product/1126012.html
+		https://playback.ru/product/1126013.html
+		https://playback.ru/product/1126014.html
+		https://playback.ru/product/1126032.html
+		https://playback.ru/product/1126093.html
+		https://playback.ru/product/1126103.html
+	https://playback.ru/warranty.html
+https://playback.ru/
+	https://playback.ru/basket.html
+		https://playback.ru/catalog/1300.html
+		https://playback.ru/catalog/1302.html
+		https://playback.ru/catalog/1303.html
+		https://playback.ru/catalog/1304.html
+		https://playback.ru/catalog/1307.html
+		https://playback.ru/catalog/1308.html
+		https://playback.ru/catalog/1311.html
+		https://playback.ru/catalog/1312.html
+		https://playback.ru/catalog/1315.html
+		https://playback.ru/catalog/1318.html
+		https://playback.ru/catalog/1329.html
+								https://playback.ru/catalog/1329.html/brand/0/sort/1/page/1
+		https://playback.ru/catalog/1429.html
+								https://playback.ru/catalog/1429.html/brand/0/sort/0/page/1
+								https://playback.ru/catalog/1429.html/brand/0/sort/1/page/1
+								https://playback.ru/catalog/1429.html/brand/53/sort/0/page/1
+								https://playback.ru/catalog/1429.html/brand/91/sort/0/page/1
+		https://playback.ru/catalog/1507.html
+		https://playback.ru/catalog/1508.html
+		https://playback.ru/catalog/1511.html
+		https://playback.ru/catalog/1622.html
+		https://playback.ru/catalog/1626.html
+		https://playback.ru/catalog/1636.html
+		https://playback.ru/catalog/18.html
+		https://playback.ru/catalog/665.html
+		https://playback.ru/catalog/805.html
+	https://playback.ru/dostavka.html
+	https://playback.ru/payment.html
+	https://playback.ru/privacy_policy.html
+		https://playback.ru/product/1124958.html
+		https://playback.ru/product/1125211.html
+		https://playback.ru/product/1125283.html
+		https://playback.ru/product/1125284.html
+		https://playback.ru/product/1125607.html
+		https://playback.ru/product/1125638.html
+		https://playback.ru/product/1125655.html
+		https://playback.ru/product/1125657.html
+		https://playback.ru/product/1125664.html
+		https://playback.ru/product/1125834.html
+		https://playback.ru/product/1126012.html
+		https://playback.ru/product/1126013.html
+		https://playback.ru/product/1126014.html
+		https://playback.ru/product/1126093.html
+		https://playback.ru/product/1126103.html
+	https://playback.ru/basket.html
+		https://playback.ru/catalog/1308.html
+		https://playback.ru/catalog/1311.html
+		https://playback.ru/catalog/1312.html
+		https://playback.ru/catalog/1315.html
+		https://playback.ru/catalog/1317.html
+		https://playback.ru/catalog/1318.html
+		https://playback.ru/catalog/1329.html
+		https://playback.ru/catalog/1429.html
+		https://playback.ru/catalog/1507.html
+		https://playback.ru/catalog/1508.html
+		https://playback.ru/catalog/1511.html
+		https://playback.ru/catalog/1626.html
+		https://playback.ru/catalog/1636.html
+		https://playback.ru/catalog/805.html
+	https://playback.ru/contacts.html
+	https://playback.ru/dostavka.html
+	https://playback.ru/payment.html
+	https://playback.ru/pickup.html
+		https://playback.ru/product/1124958.html
+		https://playback.ru/product/1125283.html
 		https://playback.ru/product/1125284.html
 		https://playback.ru/product/1125607.html
 		https://playback.ru/product/1125638.html
@@ -72,13 +138,10 @@ https://playback.ru/
 		https://playback.ru/product/1125664.html
 		https://playback.ru/product/1125828.html
 		https://playback.ru/product/1125834.html
-		https://playback.ru/product/1125835.html
 		https://playback.ru/product/1126012.html
 		https://playback.ru/product/1126013.html
 		https://playback.ru/product/1126014.html
-		https://playback.ru/product/1126032.html
 		https://playback.ru/product/1126083.html
 		https://playback.ru/product/1126093.html
-		https://playback.ru/product/1126094.html
 		https://playback.ru/product/1126103.html
 	https://playback.ru/warranty.html

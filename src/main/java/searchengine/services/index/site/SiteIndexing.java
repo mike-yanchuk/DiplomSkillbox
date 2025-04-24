@@ -5,6 +5,7 @@ import lombok.SneakyThrows;
 import lombok.extern.slf4j.Slf4j;
 import searchengine.model.SiteModel;
 import searchengine.model.Status;
+import searchengine.repository.RepositoryPage;
 import searchengine.repository.RepositorySite;
 
 import java.io.File;
@@ -25,13 +26,14 @@ public class SiteIndexing  {
     private final String name;
     private final SiteModel siteModel;
     private final RepositorySite repositorySite;
+    private final RepositoryPage repositoryPage;
 
     public void indexing() {
         AtomicLong startOfTime = new AtomicLong();
         String pathFile = "fileSiteMap/";
         String nameFile = name.replaceAll("\\.", "_");
         log.info("Indexing site: {} - {}", name, url);
-        MapSite recursiveTask = new MapSite(url, siteModel.getId());
+        MapSite recursiveTask = new MapSite(url, siteModel, repositoryPage);
         int core = Runtime.getRuntime().availableProcessors();
         startOfTime.set(System.currentTimeMillis());
         String fullURL = new ForkJoinPool(core).invoke(recursiveTask);

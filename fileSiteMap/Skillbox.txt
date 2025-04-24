@@ -1,93 +1,5 @@
 https://skillbox.ru
 https://skillbox.ru/
-		https://skillbox.ru/course/film-editor/
-		https://skillbox.ru/course/frontend-developer/
-		https://skillbox.ru/course/infographics-for-marketplaces/
-		https://skillbox.ru/course/neural-networks/
-		https://skillbox.ru/course/nutriciologiya/
-		https://skillbox.ru/course/profession-accountant/
-		https://skillbox.ru/course/profession-business-analyst/
-		https://skillbox.ru/course/profession-commercial-illustrator-2/
-		https://skillbox.ru/course/profession-data-scientist/
-		https://skillbox.ru/course/profession-designer-interior/
-		https://skillbox.ru/course/profession-editor/
-		https://skillbox.ru/course/profession-fashion-design/
-		https://skillbox.ru/course/profession-film-director/
-		https://skillbox.ru/course/profession-financial-analyst/
-		https://skillbox.ru/course/profession-java/
-		https://skillbox.ru/course/profession-landscape-design/
-		https://skillbox.ru/course/profession-marketolog/
-		https://skillbox.ru/course/profession-motiondesigner/
-		https://skillbox.ru/course/profession-programmer-of-microcontrollers/
-		https://skillbox.ru/course/profession-screenwriter/
-		https://skillbox.ru/course/profession-target/
-		https://skillbox.ru/course/profession-test/
-		https://skillbox.ru/course/profession-ux/
-		https://skillbox.ru/course/reverse_engineering/
-		https://skillbox.ru/course/seo/
-		https://skillbox.ru/course/smm-marketer/
-		https://skillbox.ru/course/topseller/
-		https://skillbox.ru/courses/become-hacker/
-		https://skillbox.ru/courses/brand-promotion/
-		https://skillbox.ru/courses/creative-content/
-		https://skillbox.ru/courses/design-for-brands/
-			https://skillbox.ru/courses/design-for-brands/?page=2
-		https://skillbox.ru/courses/develop-games/
-			https://skillbox.ru/courses/develop-games/?page=2
-			https://skillbox.ru/courses/develop-games/?page=3
-		https://skillbox.ru/courses/freelancing/
-			https://skillbox.ru/courses/freelancing/?page=2
-		https://skillbox.ru/courses/investing/
-		https://skillbox.ru/courses/popular/
-			https://skillbox.ru/courses/popular/?page=2
-		https://skillbox.ru/courses/razobratsya-v-sebe-i-svoikh-emociyakh/
-			https://skillbox.ru/courses/razobratsya-v-sebe-i-svoikh-emociyakh/?page=2
-		https://skillbox.ru/courses/start-in-it/
-			https://skillbox.ru/courses/start-in-it/?page=2
-		https://skillbox.ru/courses/start-successful-blog/
-		https://skillbox.ru/courses/taking-care-of-your-health/
-		https://skillbox.ru/courses/work-for-yourself/
-			https://skillbox.ru/courses/work-for-yourself/?page=2
-	https://skillbox.ru/legal-docs/
-				https://skillbox.ru/legal-docs/anpoo-skillbox/file/black_friday_spo.pdf?v=1730881448
-				https://skillbox.ru/legal-docs/anpoo-skillbox/file/extract.pdf?v=1693342800
-				https://skillbox.ru/legal-docs/anpoo-skillbox/file/privacy_policy.pdf?v=1725890115
-				https://skillbox.ru/legal-docs/chou/file/Nutritsiologiya.pdf?v=1730464569
-				https://skillbox.ru/legal-docs/chou/file/black_friday.pdf?v=1732268382
-				https://skillbox.ru/legal-docs/chou/file/black_friday_twinby.pdf?v=1732268557
-				https://skillbox.ru/legal-docs/chou/file/extract.pdf?v=1738232420
-				https://skillbox.ru/legal-docs/chou/file/grandiose.pdf?v=1733732080
-				https://skillbox.ru/legal-docs/chou/file/great.pdf?v=1743678929
-				https://skillbox.ru/legal-docs/chou/file/health.pdf?v=1724150371
-				https://skillbox.ru/legal-docs/chou/file/oferta.pdf?v=1726057237
-				https://skillbox.ru/legal-docs/chou/file/oferta_b2b.pdf?v=1721741103
-				https://skillbox.ru/legal-docs/chou/file/offer_50_50.pdf?v=1735372378
-				https://skillbox.ru/legal-docs/chou/file/offerta-internal-installments.pdf?v=1744986568
-				https://skillbox.ru/legal-docs/chou/file/offerta_to_conclude_agreement.pdf?v=1719317044
-				https://skillbox.ru/legal-docs/chou/file/practice.pdf?v=1738492138
-				https://skillbox.ru/legal-docs/chou/file/presale.pdf?v=1734953152
-				https://skillbox.ru/legal-docs/chou/file/privacy_policy.pdf?v=1744965870
-				https://skillbox.ru/legal-docs/chou/file/rules.pdf?v=1743493497
-				https://skillbox.ru/legal-docs/chou/file/sale_rules_learnnow_paylater.pdf?v=1723025823
-				https://skillbox.ru/legal-docs/chou/file/sandbox.pdf?v=1744818093
-				https://skillbox.ru/legal-docs/chou/file/spring_knowledge.pdf?v=1744033195
-				https://skillbox.ru/legal-docs/chou/file/spring_sale.pdf?v=1741698334
-				https://skillbox.ru/legal-docs/chou/file/start.pdf?v=1722582317
-				https://skillbox.ru/legal-docs/chou/file/super_combo.pdf?v=1741954856
-				https://skillbox.ru/legal-docs/chou/file/three_in_one.pdf?v=1727767494
-				https://skillbox.ru/legal-docs/skillbox/file/terms_of_use.pdf?v=1725023360
-					https://skillbox.ru/legal-docs/chou/file/privacy_policy/version-180425.pdf
-					https://skillbox.ru/legal-docs/skillbox/file/terms_of_use/version-300824.pdf
-	https://skillbox.ru/payments/
-	https://skillbox.ru/rules.pdf
-		https://skillbox.ru/sale/free/
-	https://skillbox.ru/code/
-		https://skillbox.ru/code/?page=2
-		https://skillbox.ru/code/?page=3
-			https://skillbox.ru/code/faculty/backend-development/
-			https://skillbox.ru/code/faculty/data-analysis/
-			https://skillbox.ru/code/faculty/it-infrastructure/
-			https://skillbox.ru/code/faculty/web-development/
 	https://skillbox.ru/company/
 	https://skillbox.ru/contacts/
 		https://skillbox.ru/course/3d-generalist/
@@ -106,7 +18,6 @@ https://skillbox.ru/
 		https://skillbox.ru/course/profession-editor/
 		https://skillbox.ru/course/profession-fashion-design/
 		https://skillbox.ru/course/profession-film-director/
-		https://skillbox.ru/course/profession-financial-analyst/
 		https://skillbox.ru/course/profession-graphdesigner/
 		https://skillbox.ru/course/profession-interiordesigner/
 		https://skillbox.ru/course/profession-java/
@@ -153,395 +64,79 @@ https://skillbox.ru/
 	https://skillbox.ru/management/
 	https://skillbox.ru/marketing/
 	https://skillbox.ru/media/
-		https://skillbox.ru/media/?page=page-2
-		https://skillbox.ru/media/?page=page-3
-		https://skillbox.ru/media/?page=page-4
-		https://skillbox.ru/media/?page=page-5
-		https://skillbox.ru/media/?page=page-614
-		https://skillbox.ru/media/about-media/
-			https://skillbox.ru/media/articles/doing/
-				https://skillbox.ru/media/articles/doing/?page=page-2
-				https://skillbox.ru/media/articles/doing/?page=page-3
-				https://skillbox.ru/media/articles/doing/?page=page-4
-				https://skillbox.ru/media/articles/doing/?page=page-5
-				https://skillbox.ru/media/articles/doing/?page=page-85
-			https://skillbox.ru/media/articles/explain/
-				https://skillbox.ru/media/articles/explain/?page=page-135
-				https://skillbox.ru/media/articles/explain/?page=page-2
-				https://skillbox.ru/media/articles/explain/?page=page-3
-				https://skillbox.ru/media/articles/explain/?page=page-4
-				https://skillbox.ru/media/articles/explain/?page=page-5
-			https://skillbox.ru/media/articles/history/
-				https://skillbox.ru/media/articles/history/?page=page-165
-				https://skillbox.ru/media/articles/history/?page=page-2
-				https://skillbox.ru/media/articles/history/?page=page-3
-				https://skillbox.ru/media/articles/history/?page=page-4
-				https://skillbox.ru/media/articles/history/?page=page-5
-			https://skillbox.ru/media/base/osnovy-strelochnyh-funkciy-v-javascript/
-			https://skillbox.ru/media/base/teg-html-struktura-sintaksis-atributy/
-		https://skillbox.ru/media/business/
-			https://skillbox.ru/media/business/1-fevralya-v-moskve-proydet-failconf-konferenciya-ob-oshibkah-v-it-biznese/
-			https://skillbox.ru/media/business/5-predprinimatelskih-oshibok-kotorye-razrushayut-startapy/
-			https://skillbox.ru/media/business/6-stran-s-komfortnymi-usloviyami-v-kotoryh-dayut-vizu-cifrovogo-kochevnika/
-			https://skillbox.ru/media/business/?page=page-19
-			https://skillbox.ru/media/business/?page=page-2
-			https://skillbox.ru/media/business/?page=page-3
-			https://skillbox.ru/media/business/?page=page-4
-			https://skillbox.ru/media/business/?page=page-5
-			https://skillbox.ru/media/business/blogery-poluchili-kody-okved/
-			https://skillbox.ru/media/business/chernyy-i-belyy-spiski-stran-fns-chto-izmenilos-i-kak-rabotat-s-dengami-za-rubezhom/
-			https://skillbox.ru/media/business/chto-prodavat-na-marketpleysah-v-2025-godu/
-			https://skillbox.ru/media/business/chto-takoe-elektronnaya-podpis-i-kak-ee-poluchit/
-			https://skillbox.ru/media/business/chto-takoe-shering-pauerbankov-i-mozhno-li-na-nem-zarabotat-intervyu-s-osnovatelem-powerapp/
-			https://skillbox.ru/media/business/edinyy-selskokhozyaystvennyy-nalog-komu-podoydyet-i-kak-pereyti/
-			https://skillbox.ru/media/business/effekt-mcdonalds-5-urokov-po-masshtabirovaniyu-biznesa-ot-fastfud-gigantov/
-			https://skillbox.ru/media/business/gde-zakupat-tovary-dlya-prodazhi-na-marketpleysah/
-			https://skillbox.ru/media/business/glavnye-izmeneniya-v-zakonodatelstve-o-kotoryh-nuzhno-znat-predprinimatelyam/
-			https://skillbox.ru/media/business/issledovanie-dokhodov-sellerov-mnogie-li-poluchayut-1-million-rubley-v-mesyats/
-			https://skillbox.ru/media/business/kak-ocenit-potencialnyy-i-realnyy-spros-na-tovar/
-			https://skillbox.ru/media/business/kak-oformit-samozanyatost-v-2024-godu-poshagovaya-instruktsiya-so-skrinshotami/
-			https://skillbox.ru/media/business/kak-otkryt-ip-v-2022-godu-poshagovaya-instruktsiya/
-			https://skillbox.ru/media/business/kak-otkryt-punkt-vydachi-ozon-v-2024-godu-poshagovaya-instruktsiya-i-sovety-vladeltsev-pvz/
-			https://skillbox.ru/media/business/kak-rabotayut-b2b-marketpleysy-i-pochemu-kompanii-imi-polzuyutsya/
-			https://skillbox.ru/media/business/kak-zakryt-samozanyatost-poshagovaya-instrukciya-so-skrinshotami/
-			https://skillbox.ru/media/business/kakie-kanaly-prodvizheniya-ispolzoval-malyy-i-sredniy-biznes-v-2024-godu/
-			https://skillbox.ru/media/business/kamni-kompanony-i-palki-dlya-bitya-krapivy-zachem-na-marketpleysah-prodayut-strannye-tovary/
-			https://skillbox.ru/media/business/magnit-zapuskaet-franshizu-kto-i-na-kakikh-usloviyakh-mozhet-stat-partnyerom-reteylera/
-			https://skillbox.ru/media/business/mozhno-li-rabotat-oficialno-i-byt-samozanyatym-odnovremenno/
-			https://skillbox.ru/media/business/padaem-v-singulyarnost/
-			https://skillbox.ru/media/business/perestali-deystvovat-sertifikaty-elektronnykh-podpisey-dlya-sotrudnikov-kompanii/
-			https://skillbox.ru/media/business/pochemu-biznesmeny-obyazany-zabotitsya-o-svoem-mentalnom-zdorove-i-kak-eto-sdelat/
-			https://skillbox.ru/media/business/programmy-podderzhki-malogo-biznesa-v-2025-godu-federalnye-regionalnye-i-otraslevye/
-			https://skillbox.ru/media/business/samozanyatykh-obyazhut-sdavat-otchyetnost-v-rosstat/
-			https://skillbox.ru/media/business/sistemy-nalogooblozheniya-dlya-ip-v-2023-godu-kakuyu-vybrat/
-			https://skillbox.ru/media/business/story-ekaterina-lomova/
-			https://skillbox.ru/media/business/strakhovye-vznosy-ip-v-2024-godu-skolko-platit-komu-i-v-kakie-sroki/
-			https://skillbox.ru/media/business/topfranchise-nazval-luchshie-rossiyskie-franshizy-2025-goda-rasskazyvaem-o-reytinge/
-			https://skillbox.ru/media/business/v-gosdume-rassmatrivayut-zakonoproekt-kotoryy-izmenit-poryadok-vyplat-nds-dlya-usn/
-			https://skillbox.ru/media/business/v-rossii-hotyat-zapretit-reklamnye-zvonki-chto-ob-etom-izvestno/
-			https://skillbox.ru/media/business/v-rossii-mogut-vvesti-avtomaticheskie-shtrafy-za-narushenie-pravil-pri-prodazhe-tovarov/
-			https://skillbox.ru/media/business/vlasti-rossii-hotyat-pomogat-kreativnoy-industrii-rasskazyvaem-o-merah-podderzhki/
-			https://skillbox.ru/media/business/vse-ili-nichego-chem-perfekcionizm-opasen-dlya-biznesa-i-kak-s-nim-borotsya/
-			https://skillbox.ru/media/business/zumery-predpochitayut-zarabatyvat-na-marketpleysah-issledovanie-tochki/
-			https://skillbox.ru/media/business/chto-takoe-inflyatsiya-pochemu-ona-rastyet-i-kak-sokhranit-dengi-v-2023-godu/
-			https://skillbox.ru/media/business/kak-zakryt-ip-v-2024-godu-poshagovaya-instruktsiya/
-		https://skillbox.ru/media/cinemusic/
-			https://skillbox.ru/media/cinemusic/1989-taylors-version/
-			https://skillbox.ru/media/cinemusic/?page=page-2
-			https://skillbox.ru/media/cinemusic/?page=page-3
-			https://skillbox.ru/media/cinemusic/?page=page-33
-			https://skillbox.ru/media/cinemusic/?page=page-4
-			https://skillbox.ru/media/cinemusic/?page=page-5
-			https://skillbox.ru/media/cinemusic/a24-films/
-			https://skillbox.ru/media/cinemusic/anime-genres-guide/
-			https://skillbox.ru/media/cinemusic/ariana-grande-2024-eternal-sunshine/
-			https://skillbox.ru/media/cinemusic/bad-bunny/
-			https://skillbox.ru/media/cinemusic/berlinale-2024/
-			https://skillbox.ru/media/cinemusic/best-AI-tools-for-video-creation/
-			https://skillbox.ru/media/cinemusic/beyonce-cowboy-carter/
-			https://skillbox.ru/media/cinemusic/binge-watching/
-			https://skillbox.ru/media/cinemusic/black-mirror-season-7/
-			https://skillbox.ru/media/cinemusic/character-creation-tools/
-			https://skillbox.ru/media/cinemusic/cinememes-what-is-it/
-			https://skillbox.ru/media/cinemusic/cliffhanger/
-			https://skillbox.ru/media/cinemusic/disney-princess-test/
-			https://skillbox.ru/media/cinemusic/dune-universe/
-			https://skillbox.ru/media/cinemusic/jennifer-lopez-this-is-me-now-review/
-			https://skillbox.ru/media/cinemusic/kanye-west-vultures-1/
-			https://skillbox.ru/media/cinemusic/kid-cudi-insano/
-			https://skillbox.ru/media/cinemusic/last-of-us-2/
-			https://skillbox.ru/media/cinemusic/makoto-shinkai-the-garden-of-words/
-			https://skillbox.ru/media/cinemusic/melodramatic-movies-2025/
-			https://skillbox.ru/media/cinemusic/mezhdu-nami-himiya/
-			https://skillbox.ru/media/cinemusic/minecraft-film/
-			https://skillbox.ru/media/cinemusic/mr-k-movie/
-			https://skillbox.ru/media/cinemusic/music-digest-december-2023/
-			https://skillbox.ru/media/cinemusic/music-digest-february-2024/
-			https://skillbox.ru/media/cinemusic/music-digest-january-2024/
-			https://skillbox.ru/media/cinemusic/music-digest-march-2024/
-			https://skillbox.ru/media/cinemusic/nicki-minaj-pink-friday-2/
-			https://skillbox.ru/media/cinemusic/norah-jones-visions/
-			https://skillbox.ru/media/cinemusic/oscar-2024/
-			https://skillbox.ru/media/cinemusic/oscar-2025/
-			https://skillbox.ru/media/cinemusic/showrunner/
-			https://skillbox.ru/media/cinemusic/story-aleksandr-eshanu/
-			https://skillbox.ru/media/cinemusic/story-aleksej-gusev/
-			https://skillbox.ru/media/cinemusic/story-dmitrij-butkevich/
-			https://skillbox.ru/media/cinemusic/stupid-blonde/
-			https://skillbox.ru/media/cinemusic/taylor-swift-the-tortured-poets-department/
-			https://skillbox.ru/media/cinemusic/test-the-office/
-			https://skillbox.ru/media/cinemusic/the-best-tv-show-variety/
-			https://skillbox.ru/media/cinemusic/the-cannes-film-festival-2024/
-			https://skillbox.ru/media/cinemusic/the-last-showgirl/
-			https://skillbox.ru/media/cinemusic/v-onlaynkinoteatre-premier-poyavilis-obrazovatelnye-programmy/
-			https://skillbox.ru/media/cinemusic/videographer-who-is/
-			https://skillbox.ru/media/cinemusic/voice-over-narration/
-			https://skillbox.ru/media/cinemusic/why-we-cry-over-movies/
-			https://skillbox.ru/media/cinemusic/writers-research/
-			https://skillbox.ru/media/cinemusic/writers-room/
-			https://skillbox.ru/media/cinemusic/guzel-yakhina-eisen/
-			https://skillbox.ru/media/cinemusic/paapa-essiedu/
-		https://skillbox.ru/media/code/
-			https://skillbox.ru/media/code/?page=page-113
-			https://skillbox.ru/media/code/?page=page-2
-			https://skillbox.ru/media/code/?page=page-3
-			https://skillbox.ru/media/code/?page=page-4
-			https://skillbox.ru/media/code/?page=page-5
-			https://skillbox.ru/media/code/aytishniki-zhaluyutsya-chto-stavka-po-it-ipoteke-vyrosla-s-4-do-15/
-			https://skillbox.ru/media/code/bekap-chto-eto-zachem-on-nuzhen-i-kak-ego-sdelat/
-			https://skillbox.ru/media/code/chto-takoe-cifrovaya-gumanitaristika-i-zachem-ona-nuzhna/
-			https://skillbox.ru/media/code/chto-takoe-google-colab-i-kak-s-nim-rabotat-vse-chto-nuzhno-znat-novichku/
-			https://skillbox.ru/media/code/chto-takoe-lyambda-funkcii-v-python-i-kak-ih-ispolzovat/
-			https://skillbox.ru/media/code/cicd-chto-eto-i-pochemu-bez-nee-ne-obhoditsya-razrabotka-po/
-			https://skillbox.ru/media/code/datetime-python/
-			https://skillbox.ru/media/code/google-vypustila-semeystvo-otkrytyh-ii-modeley-gemma-3/
-			https://skillbox.ru/media/code/gpt-45-proshel-stroguyu-versiyu-testa-tyuringa/
-			https://skillbox.ru/media/code/ii-sistema-kompanii-sakana-ai-sozdala-nauchnuyu-rabotu-proshedshuyu-recenzirovanie/
-			https://skillbox.ru/media/code/irlandskaya-it-kompaniya-predstavit-pervyy-v-mire-server-kvantovyh-vychisleniy/
-			https://skillbox.ru/media/code/issledovanie-openai-i-mit-golosovoy-chatgpt-mozhet-vyzyvat-emocionalnuyu-zavisimost/
-			https://skillbox.ru/media/code/issledovateli-yandeksa-vshe-i-mit-predstavili-algoritm-effektivnogo-szhatiya-neyrosetey/
-			https://skillbox.ru/media/code/itogi-konferencii-google-cloud-next-25/
-			https://skillbox.ru/media/code/kak-nayti-i-udalit-virusmayner-s-pk/
-			https://skillbox.ru/media/code/kak-otkryt-komandnuyu-stroku-v-windows/
-			https://skillbox.ru/media/code/kak-razrabotat-idealnyy-web-api-sovety-i-oshibki-na-etom-puti/
-			https://skillbox.ru/media/code/kak-sdelat-prostoy-slayder-na-html-css-i-javascript/
-			https://skillbox.ru/media/code/kak-sobrat-robota-s-nulya-poshagovaya-instruktsiya/
-			https://skillbox.ru/media/code/kak-uluchshit-skorost-zagruzki-sayta-top-sposobov-i-instrumentov/
-			https://skillbox.ru/media/code/kak-vklyuchit-rezhim-modema-na-iphone/
-			https://skillbox.ru/media/code/kak_priruchit_pitona/
-			https://skillbox.ru/media/code/knut-git-opensors-i-nedoocenennoe-pravilo-razrabotki/
-			https://skillbox.ru/media/code/kto-pervym-izobrel-radio/
-			https://skillbox.ru/media/code/meta-vypustila-semeystvo-yazykovyh-modeley-llama-4/
-			https://skillbox.ru/media/code/neuralink-ischet-teh-kto-gotov-na-vzhivlenie-neyroimplanta/
-			https://skillbox.ru/media/code/novyy-generator-izobrazheniy-v-chatgpt-chto-umeet-i-kak-im-polzovatsya/
-			https://skillbox.ru/media/code/nvidia-predstavila-robota-gumanoida-blue-i-ii-model-groot-n1/
-			https://skillbox.ru/media/code/openai-obnovila-generator-izobrazheniy-v-chatgpt/
-			https://skillbox.ru/media/code/openai-vypustila-novoe-pokolenie-audiomodeley-ii/
-			https://skillbox.ru/media/code/oshibka-syntaxerror-invalid-syntax-v-python-chto-eto-pochemu-voznikaet-i-kak-ee-ispravit/
-			https://skillbox.ru/media/code/osint-kak-zakonno-i-etichno-sobrat-dannye-o-cheloveke/
-			https://skillbox.ru/media/code/principy-solid-chto-eto-i-pochemu-ih-ispolzuyut-vse-senory/
-			https://skillbox.ru/media/code/protokol-ipv6-chto-eto-zachem-nuzhen-i-kak-rabotaet/
-			https://skillbox.ru/media/code/sboy-v-rabote-sbp-chto-izvestno/
-			https://skillbox.ru/media/code/siniy-ekran-smerti-pochemu-on-poyavlyaetsya-i-kak-ego-pobedit/
-			https://skillbox.ru/media/code/spros-na-specialistov-po-analizu-dannyh-i-ml-v-rossii-vyros-v-30-raz-za-10-let/
-			https://skillbox.ru/media/code/stallman-facts/
-			https://skillbox.ru/media/code/stallman-ideas/
-			https://skillbox.ru/media/code/stallman-life/
-			https://skillbox.ru/media/code/stallman-projects/
-			https://skillbox.ru/media/code/story-svetlana-fadeeva/
-			https://skillbox.ru/media/code/sublime-text/
-			https://skillbox.ru/media/code/v-martovskom-obnovlenii-windows-11-obnaruzhili-bag-kotoryy-udalyaet-microsoft-copilot/
-			https://skillbox.ru/media/code/vk-razrabatyvaet-analog-wechat-platformu-max/
-			https://skillbox.ru/media/code/vozrastanie-i-ubyvanie-funktsii-kak-ponyat-i-prostit-nayti/
-			https://skillbox.ru/media/code/vyerstka-sayta-instruktsiya-dlya-novichkov/
-			https://skillbox.ru/media/code/vyshla-open-sora-20-ii-model-dlya-generacii-video-s-nizkimi-zatratami-na-obuchenie/
-			https://skillbox.ru/media/code/yazyki_programmirovaniya_chto_eto_takoe/
-			https://skillbox.ru/media/code/copilot-ot-microsoft-kak-besplatno-polzovatsya-neyrosetyu-v-rossii/
-			https://skillbox.ru/media/code/revolyutsiya-tranzistorov/
-			https://skillbox.ru/media/code/reyting-yazykov-po-versii-tiobe-aprel-2025-goda/
-			https://skillbox.ru/media/code/stallman-main/
-			https://skillbox.ru/media/code/story-olga-bruhanova/
-			https://skillbox.ru/media/code/strannye-yazyki-programmirovaniya-shekspir-fortran-lisp-brainfuck-i-vsevsevse/
-			https://skillbox.ru/media/code/yandeks-predstavil-tri-umnyh-kolonki-i-obnovlenie-alisy/
-		https://skillbox.ru/media/corptrain/
-			https://skillbox.ru/media/corptrain/?page=page-2
-			https://skillbox.ru/media/corptrain/?page=page-24
-			https://skillbox.ru/media/corptrain/?page=page-3
-			https://skillbox.ru/media/corptrain/?page=page-4
-			https://skillbox.ru/media/corptrain/?page=page-5
-			https://skillbox.ru/media/corptrain/analitiki-sberuniversiteta-nazvali-osnovnye-problemy-korporativnogo-obucheniya-v-rossii/
-			https://skillbox.ru/media/corptrain/kakie-suschestvuyut-delovye-igry-i-chem-oni-polezny-v-obuchenii/
-			https://skillbox.ru/media/corptrain/knizhnaya-polka-nado-dumat-trenazher-myshleniya-nikita-nepryahin-i-dmitriy-skvorcov/
-			https://skillbox.ru/media/corptrain/lidiruyuschaya-v-mire-platforma-dlya-obucheniya-personala-rasskazala-o-samyh-populyarnyh-navykah/
-			https://skillbox.ru/media/corptrain/mezhdunarodnaya-platforma-korporativnogo-obucheniya-nazvala-samye-bystrorastuschie-navyki-v-ii/
-			https://skillbox.ru/media/corptrain/mnenie-pochemu-v-korporativnom-obuchenii-glavnym-stalo-udobstvo-a-ne-effektivnost/
-			https://skillbox.ru/media/corptrain/novye-ii-agenty-mogut-prevratit-korporativnoe-onlayn-obuchenie-v-fikciyu/
-			https://skillbox.ru/media/corptrain/opros-prohozhdenie-korporativnogo-obucheniya-obychno-ne-vliyaet-na-zarplatu-sotrudnikov/
-			https://skillbox.ru/media/corptrain/platforma-udemy-business-nazvala-samye-vostrebovannye-temy-korporativnogo-obucheniya/
-			https://skillbox.ru/media/corptrain/podvedeny-itogi-premii-digital-learning-2024/
-			https://skillbox.ru/media/corptrain/prinyat-zakon-ob-oplate-nastavnichestva/
-			https://skillbox.ru/media/corptrain/rukovoditeli-zarubezhnyh-it-kompaniy-nazvali-prioritetnye-napravleniya-obucheniya-sotrudnikov/
-			https://skillbox.ru/media/corptrain/stali-izvestny-lidery-rossiyskogo-rynka-lms-dlya-korporativnogo-obucheniya/
-			https://skillbox.ru/media/corptrain/stalo-izvestno-kakie-kanaly-i-formaty-dlya-onlayn-obucheniya-predpochitayut-rukovoditeli/
-			https://skillbox.ru/media/corptrain/v-ssha-besplatnoe-vysshee-obrazovanie-stanovitsya-plyushkoy-dlya-nayma-molodyh-sotrudnikov/
-			https://skillbox.ru/media/corptrain/vyyavleny-glavnye-barery-kotorye-meshayut-ld-ispolzovat-ii-effektivnee/
-			https://skillbox.ru/media/corptrain/zumery-ne-v-vostorge-ot-mikroobucheniya-i-predpochitayut-uchitsya-na-polnotsennykh-onlaynkursakh/
-		https://skillbox.ru/media/design/
-			https://skillbox.ru/media/design/10-ai-for-logos/
-			https://skillbox.ru/media/design/14-kolledzhey-dizayna-v-moskve-kuda-mozhno-postupit/
-			https://skillbox.ru/media/design/16-simvolov-zashifrovannyh-v-kartine-boyarynya-morozova/
-			https://skillbox.ru/media/design/42-otvety-na-glavnye-voprosy-o-dizayne-zhizni-i-vsyem-takom/
-			https://skillbox.ru/media/design/?page=page-112
-			https://skillbox.ru/media/design/?page=page-2
-			https://skillbox.ru/media/design/?page=page-3
-			https://skillbox.ru/media/design/?page=page-4
-			https://skillbox.ru/media/design/?page=page-5
-			https://skillbox.ru/media/design/agentstvo-ony-razrabotalo-dizayn-sayta-i-mobilnogo-prilozheniya-dlya-seti-magazinov-podruzhka/
-			https://skillbox.ru/media/design/amerikanskaya-studiya-trahan-architects-predstavila-pavilon-ssha-dlya-expo-osaka-2025/
-			https://skillbox.ru/media/design/chto-nado-sdavat-na-arhitektora/
-			https://skillbox.ru/media/design/design-special-new-year22/
-			https://skillbox.ru/media/design/designstudio-razrabotala-aydentiku-dlya-odnogo-iz-glavnyh-kulturnyh-centrov-londona/
-			https://skillbox.ru/media/design/dizayner-adrianus-kundert-pletet-korziny-vdohnovlennye-emodzi/
-			https://skillbox.ru/media/design/draw-face-front/
-			https://skillbox.ru/media/design/figma-images/
-			https://skillbox.ru/media/design/figma-predstavila-novye-funkcii-i-obnovila-interfeys/
-			https://skillbox.ru/media/design/figma-prototypes-1/
-			https://skillbox.ru/media/design/holding-prada-group-oficialno-priobrel-versace/
-			https://skillbox.ru/media/design/kak-nauchitsya-risovat-na-graficheskom-planshete/
-			https://skillbox.ru/media/design/kak-sverstat-idealnoe-rezyume/
-			https://skillbox.ru/media/design/kuda-poyti-v-aprele-i-v-mae-i-v-iyune-8-sobytiy/
-			https://skillbox.ru/media/design/local-so-pricey/
-			https://skillbox.ru/media/design/luzhkovsky-style/
-			https://skillbox.ru/media/design/mukhomor-design/
-			https://skillbox.ru/media/design/obyavlen-polnyy-spisok-uchastnikov-dvuh-yarmarok-kontur-i-kontur-foto/
-			https://skillbox.ru/media/design/on-jacobs/
-			https://skillbox.ru/media/design/pavilon-uzbekistana-na-expo-2025-v-osake-vdohnovlen-drevnimi-shelkovymi-karavan-sarayami/
-			https://skillbox.ru/media/design/pentagram-vpervye-naznachila-partnerom-promyshlennogo-dizaynera-petra-voronkovicha/
-			https://skillbox.ru/media/design/pereborschili-eksperty-ocenivayut-logotipy-izvestnyh-brendov/
-			https://skillbox.ru/media/design/professiya-arhitektor-samoe-glavnoe/
-			https://skillbox.ru/media/design/samouchitel-po-figma/
-			https://skillbox.ru/media/design/shrifty_v_figma_osobennosti_primenenie_i_vybor/
-			https://skillbox.ru/media/design/space-house-concept/
-			https://skillbox.ru/media/design/story-olga-esula/
-			https://skillbox.ru/media/design/suit-and-tie/
-			https://skillbox.ru/media/design/toiletpaper-i-fotografiska-obedinilis-dlya-vystavki-v-berline/
-			https://skillbox.ru/media/design/v-nyu-yorke-vpervye-pochti-za-50-let-obnovili-kartu-metro/
-			https://skillbox.ru/media/design/vakansii-dlya-dizaynerov-april-3/
-			https://skillbox.ru/media/design/vakansii-dlya-dizaynerov-april-4/
-			https://skillbox.ru/media/design/vesna-2022-novaya-realnost/
-			https://skillbox.ru/media/design/vglyadyvayas-v-znamenitoe-foto-otryvok-knigi-v-poiskah-minimalizma/
-			https://skillbox.ru/media/design/who-is-fashion-designer/
-			https://skillbox.ru/media/design/zarplata_fashion/
-			https://skillbox.ru/media/design/agentstvo-ony-razrabotalo-novyy-karernyy-portal-dlya-dodo-brands/
-			https://skillbox.ru/media/design/chto-mozhet-tsvet/
-			https://skillbox.ru/media/design/er-istoriya-neobychnogo-ischeznoveniya/
-			https://skillbox.ru/media/design/filipp-stark-ya-byl-shokirovan-dominirovaniem-lyuksovyh-brendov-na-vystavke-v-milane/
-			https://skillbox.ru/media/design/glavnye-cveta-goda-po-versii-instituta-pantone/
-			https://skillbox.ru/media/design/glavnye-lyudi-v-dizayne/
-			https://skillbox.ru/media/design/iphone-evolyutsiya-dizayna/
-			https://skillbox.ru/media/design/izdatelstvo-penguin-zapuskaet-novuyu-seriyu-archive-v-chest-svoego-90-letiya/
-			https://skillbox.ru/media/design/kak-uprostit-rabotu-v-figma/
-			https://skillbox.ru/media/design/kak-v-figma-sdelat-chto-ugodno/
-			https://skillbox.ru/media/design/kompaniya-rolls-royce-vypustila-shahmaty-vdohnovlennye-dizaynom-marki/
-			https://skillbox.ru/media/design/lina-gotme-sproektirovala-pavilon-bahreyna-dlya-vystavki-expo-2025-v-osake/
-			https://skillbox.ru/media/design/logotip-estetika-tekhnika-i-smysly/
-			https://skillbox.ru/media/design/marketing-design/
-			https://skillbox.ru/media/design/portfolio_veb_dizaynera_za_2_nedeli/
-			https://skillbox.ru/media/design/premiya-serebryanyy-merkuriy-provela-rebrending-i-okonchatelno-stala-silver-mercury/
-			https://skillbox.ru/media/design/stil-vizualnyy-putevoditel-po-epoham/
-			https://skillbox.ru/media/design/story-irina-nikolskaya/
-			https://skillbox.ru/media/design/story-lubov-vrublevskaya/
-			https://skillbox.ru/media/design/studiya-foster-partners-sozdala-derevnyu-dlya-saudovskoy-aravii-na-expo-2025-v-osake/
-			https://skillbox.ru/media/design/studiya-retour-chariot-rabotaet-so-shriftami-sozdannymi-zhenschinami/
-			https://skillbox.ru/media/design/yaschik-poznaniya-znakomstvo-s-kameroy-obskuroy/
-		https://skillbox.ru/media/edtech/
-			https://skillbox.ru/media/edtech/obrazovatelnye-mobilnye-prilozheniya-okazalis-samymi-uyazvimymi-dlya-moshennikov/
-		https://skillbox.ru/media/education/
-			https://skillbox.ru/media/education/bolshe-treti-studentov-kolledzhey-v-rossii-uchatsya-platno/
-			https://skillbox.ru/media/education/chetyre-kognitivnye-teorii-dlya-vsekh-kto-uchit-lyudey/
-			https://skillbox.ru/media/education/minprosvescheniya-gotovit-dlya-rossiyskih-shkol-edinoe-raspisanie/
-			https://skillbox.ru/media/education/v-kitae-otkryvayut-shkolu-dlya-chelovekopodobnyh-robotov/
-			https://skillbox.ru/media/education/vklyuchat-ili-ne-vklyuchat-kameru-na-onlayn-zanyatii/
-		https://skillbox.ru/media/gamedev/
-			https://skillbox.ru/media/gamedev/20-luchshih-igr-dlya-dvoih-na-playstation-4-i-playstation-5/
-			https://skillbox.ru/media/gamedev/?page=page-2
-			https://skillbox.ru/media/gamedev/?page=page-3
-			https://skillbox.ru/media/gamedev/?page=page-4
-			https://skillbox.ru/media/gamedev/?page=page-5
-			https://skillbox.ru/media/gamedev/?page=page-77
-			https://skillbox.ru/media/gamedev/assassins-creed-shadows-ispravila-problemy-serii-no-ne-te/
-			https://skillbox.ru/media/gamedev/besplatnye-assety-dlya-unreal-engine/
-			https://skillbox.ru/media/gamedev/bloober-team-predstavila-geympleynyy-treyler-remeyka-silent-hill-2/
-			https://skillbox.ru/media/gamedev/borderlands-4-novaya-mafiya-igra-pitera-muline-chto-pokazali-na-gamescom-2024/
-			https://skillbox.ru/media/gamedev/chetyre-eksklyuziva-microsoft-na-drugikh-konsolyakh-diablo-4-v-game-pass-i-drugie-novosti-s-biznespo/
-			https://skillbox.ru/media/gamedev/chto-izvestno-o-deadlock-polnaya-khronologiya-utechek-novogo-mobashutera-ot-valve/
-			https://skillbox.ru/media/gamedev/chto-takoe-geymdev-kak-ustroena-igrovaya-industriya-i-kakie-professii-v-ney-vostrebovany/
-			https://skillbox.ru/media/gamedev/detali-stalker-2-heart-of-chornobyl-poleznye-anomalii-20-regionov-nelineynost/
-			https://skillbox.ru/media/gamedev/dlc-dlya-alan-wake-2-civilization-7-i-batman-arkham-shadow-glavnoe-s-summer-game-fest/
-			https://skillbox.ru/media/gamedev/embracer-group-sokratila-pochti-1400-sotrudnikov-i-otmenila-42-igry/
-			https://skillbox.ru/media/gamedev/epic-games-vypustila-obnovlenie-unreal-engine-glavnye-izmeneniya-v-versii-54/
-			https://skillbox.ru/media/gamedev/glavnoe-so-state-of-play-remeyk-silent-hill-2-god-of-war-ragnark-dlya-pk-i-concord/
-			https://skillbox.ru/media/gamedev/krafton-reshila-vykupit-u-xbox-studiyu-tango-gameworks-i-prava-na-igru-hifi-rush/
-			https://skillbox.ru/media/gamedev/microsoft-zakryla-studii-tango-gameworks-i-arkane-austin/
-			https://skillbox.ru/media/gamedev/novaya-doom-prikvel-gears-of-war-i-geympley-perfect-dark-glavnoe-s-letney-xbox-games-showcase/
-			https://skillbox.ru/media/gamedev/novye-vakansii-v-geymdeve-v-rossii-i-drugikh-stranakh/
-			https://skillbox.ru/media/gamedev/nvidia-pokazala-nekstgennpc-na-osnove-iskusstvennogo-intellekta/
-			https://skillbox.ru/media/gamedev/obzor-atomfall-radi-chego-stoit-sygrat-v-ekshen-pohozhiy-na-fallout-i-stalker/
-			https://skillbox.ru/media/gamedev/obzor-filma-maynkraft-v-kino-ekranizacii-ne-realizovavshey-svoy-potencial/
-			https://skillbox.ru/media/gamedev/obzor-inzoi-simulyator-krasivyh-skrinshotov-i-rolikov-a-ne-zhizni-poka-chto/
-			https://skillbox.ru/media/gamedev/obzor-lost-records-bloom-rage-nostalgiya-po-yunosti-s-naletom-mistiki/
-			https://skillbox.ru/media/gamedev/pobediteli-the-game-awards-2024/
-			https://skillbox.ru/media/gamedev/raspisanie-bannerov-v-genshin-impact/
-			https://skillbox.ru/media/gamedev/raspisanie-bannerov-v-zenless-zone-zero/
-			https://skillbox.ru/media/gamedev/remaster-days-gone-novaya-igra-ot-avtorov-returnal-i-drugie-igry-so-state-of-play-2025/
-			https://skillbox.ru/media/gamedev/skandal-vokrug-helldivers-2-na-pk-chto-proizoshlo-i-zachem-sony-trebovala-svyazat-steam-i-psn/
-			https://skillbox.ru/media/gamedev/skillbox-vypustil-besplatnye-gaydy-po-kompyuternoy-grafike/
-			https://skillbox.ru/media/gamedev/south-of-midnight-rasskazyvaet-interesnye-istorii-no-dushit-boevoy-sistemoy/
-			https://skillbox.ru/media/gamedev/story-dmitriy-murin/
-			https://skillbox.ru/media/gamedev/story-igor-shapovalov/
-			https://skillbox.ru/media/gamedev/test-kto-vy-iz-bossov-bloodborne/
-			https://skillbox.ru/media/gamedev/the-witcher-4-novaya-igra-naughty-dog-elden-ring-nightreign-i-drugie-anonsy-s-tga-2024/
-			https://skillbox.ru/media/gamedev/ubisoft-rasskazala-o-tom-chto-primenyaet-ii-dlya-napisaniya-dialogov-s-igrovymi-npc/
-			https://skillbox.ru/media/gamedev/vse-o-crimson-desert-ambicioznom-ekshene-v-otkrytom-mire-ot-avtorov-black-desert/
-			https://skillbox.ru/media/gamedev/vse-o-cronos-the-new-dawn-survayval-horrore-pro-puteshestviya-vo-vremeni/
-			https://skillbox.ru/media/gamedev/vse-o-filme-mortal-kombat-2-tam-nakonec-to-pokazhut-turnir-i-poyavitsya-kuan-chi/
-			https://skillbox.ru/media/gamedev/vse-o-the-duskbloods-multipleernom-ekshene-fromsoftware-dlya-nintendo-switch-2/
-			https://skillbox.ru/media/gamedev/vsye-o-bioshock-4-novoy-chasti-serii-izobretatelnykh-shuterov/
-			https://skillbox.ru/media/gamedev/vsye-o-chetvyertoy-chasti-vedmaka-novoy-igre-v-populyarnoy-rolevoy-serii/
-			https://skillbox.ru/media/gamedev/vsye-o-mafia-the-old-country-novoy-chasti-znamenitoy-serii-o-mafiozi/
-			https://skillbox.ru/media/gamedev/vsye-o-marvels-blade-novoy-igre-pro-bleyda-ot-studii-arkane-sozdavshey-dishonored-i-prey/
-			https://skillbox.ru/media/gamedev/vsye-o-marvels-wolverine-novoy-igre-pro-rosomakhu-ot-avtorov-marvels-spiderman/
-			https://skillbox.ru/media/gamedev/vsye-ob-alkahest-ekshene-s-elementami-rpg-v-dukhe-dark-messiah-of-might-and-magic/
-			https://skillbox.ru/media/gamedev/yung-pomozhet-razbiraemsya-v-arkhetipakh-personazhey/
-			https://skillbox.ru/media/gamedev/2024-god-luchshie-igry-i-glavnye-sobytiya/
-			https://skillbox.ru/media/gamedev/doom-generation/
-			https://skillbox.ru/media/gamedev/geym-investory-i-izdateli-igr-na-pk-i-konsolyah/
-			https://skillbox.ru/media/gamedev/novye-promokody-genshin-impact/
-			https://skillbox.ru/media/gamedev/novye-promokody-honkai-star-rail/
-			https://skillbox.ru/media/gamedev/novye-promokody-wuthering-waves/
-			https://skillbox.ru/media/gamedev/novye-promokody-zenless-zone-zero/
-			https://skillbox.ru/media/gamedev/razrabotka-igr-esse-dizaynerov-khudozhnikov-stsenaristov-i-kompozitorov/
-		https://skillbox.ru/media/glossary/
-		https://skillbox.ru/media/growth/
-			https://skillbox.ru/media/growth/career-guidance/
-			https://skillbox.ru/media/growth/mental-connection/
-			https://skillbox.ru/media/growth/oni-smogli-9-vdokhnovlyayushchikh-istoriy-o-lyudyakh-izmenivshikh-svoyu-zhizn/
-			https://skillbox.ru/media/growth/psiholog-pomogi-vstupaya-v-otnosheniya-ya-srazu-zhe-nachinayu-podozrevat-partnera-v-izmenah/
-			https://skillbox.ru/media/growth/vlyublennost-chto-eto-takoe-i-kak-dolgo-ona-dlitsya/
-		https://skillbox.ru/media/health/
-			https://skillbox.ru/media/health/fat-rich-foods/
-			https://skillbox.ru/media/health/neurobics-exercises/
-		https://skillbox.ru/media/management/
-			https://skillbox.ru/media/management/kak-rukovoditeli-demotiviruyut-sotrudnikov-issledovanie/
-			https://skillbox.ru/media/management/mayskie-vyhodnye-v-2025-godu-spisok-nerabochih-dney-i-otvety-na-chastye-voprosy/
-			https://skillbox.ru/media/management/molodye-sotrudniki-hotyat-bolshe-obschatsya-s-nachalstvom-issledovanie/
-		https://skillbox.ru/media/marketing/
-			https://skillbox.ru/media/marketing/kak-anonimno-smotret-istorii-vo-vkontakte-luchshie-sposoby/
-			https://skillbox.ru/media/marketing/pochemu-mechty-o-buduschem-ceplyayut-silnee-chem-vospominaniya-razbiraem-fenomen-forestalgii/
-			https://skillbox.ru/media/marketing/skillbox-media-zapustil-razmeschenie-reklamy-rasskazyvaem-podrobnee/
-		https://skillbox.ru/media/money/
-			https://skillbox.ru/media/money/chto-takoe-birzha-i-kak-na-ney-zarabotat-likbez-dlya-novichkov/
-			https://skillbox.ru/media/money/chto-takoe-iis3-kakie-vychety-po-nemu-polozheny-i-kak-s-nim-rabotat/
-			https://skillbox.ru/media/money/razbiratsya-v-ekonomike-vazhno/
-		https://skillbox.ru/media/music/
-			https://skillbox.ru/media/music/guitar-chords-for-beginners/
-		https://skillbox.ru/media/photo/
-			https://skillbox.ru/media/photo/uchenye-otkryli-novyy-cvet-no-my-ego-ne-uvidim/
-		https://skillbox.ru/media/skillbox-blog/
-			https://skillbox.ru/media/skillbox-blog/skillbox-i-protancy-obedinilis-dlya-zapuska-sovmestnogo-proekta/
-			https://skillbox.ru/media/skillbox-blog/students-works/
-			https://skillbox.ru/media/topic/articles/
-			https://skillbox.ru/media/topic/collections/
-			https://skillbox.ru/media/topic/guides/
-			https://skillbox.ru/media/topic/history/
-				https://skillbox.ru/media/topic/history/?page=page-2
-				https://skillbox.ru/media/topic/history/?page=page-3
-				https://skillbox.ru/media/topic/history/?page=page-4
-				https://skillbox.ru/media/topic/history/?page=page-48
-				https://skillbox.ru/media/topic/history/?page=page-5
-			https://skillbox.ru/media/topic/opinions/
-			https://skillbox.ru/media/topic/specials/
-			https://skillbox.ru/media/topic/tests/
+	https://skillbox.ru/multimedia/
+	https://skillbox.ru/otzyvy/
+	https://skillbox.ru/our-great-team/
+	https://skillbox.ru/payments/
+	https://skillbox.ru/platform/
+	https://skillbox.ru/psychology/
+	https://skillbox.ru/rules.pdf
+		https://skillbox.ru/sale/free/
+	https://skillbox.ru/teachers/
+	https://skillbox.ru/code/
+	https://skillbox.ru/company/
+	https://skillbox.ru/contacts/
+		https://skillbox.ru/course/career-guide-free/
+		https://skillbox.ru/course/film-editor/
+		https://skillbox.ru/course/frontend-developer/
+		https://skillbox.ru/course/infographics-for-marketplaces/
+		https://skillbox.ru/course/neural-networks/
+		https://skillbox.ru/course/nutriciologiya/
+		https://skillbox.ru/course/profession-1c/
+		https://skillbox.ru/course/profession-accountant/
+		https://skillbox.ru/course/profession-business-analyst/
+		https://skillbox.ru/course/profession-commercial-illustrator-2/
+		https://skillbox.ru/course/profession-data-scientist/
+		https://skillbox.ru/course/profession-designer-interior/
+		https://skillbox.ru/course/profession-editor/
+		https://skillbox.ru/course/profession-fashion-design/
+		https://skillbox.ru/course/profession-film-director/
+		https://skillbox.ru/course/profession-financial-analyst/
+		https://skillbox.ru/course/profession-graphdesigner/
+		https://skillbox.ru/course/profession-interiordesigner/
+		https://skillbox.ru/course/profession-java/
+		https://skillbox.ru/course/profession-landscape-design/
+		https://skillbox.ru/course/profession-marketolog/
+		https://skillbox.ru/course/profession-marketplace-manager/
+		https://skillbox.ru/course/profession-motiondesigner/
+		https://skillbox.ru/course/profession-programmer-of-microcontrollers/
+		https://skillbox.ru/course/profession-python/
+		https://skillbox.ru/course/profession-screenwriter/
+		https://skillbox.ru/course/profession-target/
+		https://skillbox.ru/course/profession-test/
+		https://skillbox.ru/course/profession-ux/
+		https://skillbox.ru/course/profession-webdesigner/
+		https://skillbox.ru/course/reverse_engineering/
+		https://skillbox.ru/course/seo/
+		https://skillbox.ru/course/smm-marketer/
+		https://skillbox.ru/course/topseller/
+		https://skillbox.ru/courses/analitika/
+		https://skillbox.ru/courses/become-hacker/
+		https://skillbox.ru/courses/brand-promotion/
+		https://skillbox.ru/courses/creative-content/
+		https://skillbox.ru/courses/design-for-brands/
+		https://skillbox.ru/courses/develop-games/
+		https://skillbox.ru/courses/finansy/
+		https://skillbox.ru/courses/freelancing/
+		https://skillbox.ru/courses/investing/
+		https://skillbox.ru/courses/marketpleisy/
+		https://skillbox.ru/courses/popular/
+		https://skillbox.ru/courses/razobratsya-v-sebe-i-svoikh-emociyakh/
+		https://skillbox.ru/courses/start-in-it/
+		https://skillbox.ru/courses/start-successful-blog/
+		https://skillbox.ru/courses/taking-care-of-your-health/
+		https://skillbox.ru/courses/work-for-yourself/
+	https://skillbox.ru/design/
+	https://skillbox.ru/engineering/
+	https://skillbox.ru/english/
+	https://skillbox.ru/games/
+	https://skillbox.ru/health/
+	https://skillbox.ru/legal-docs/
+					https://skillbox.ru/legal-docs/chou/file/privacy_policy/version-180425.pdf
+					https://skillbox.ru/legal-docs/skillbox/file/terms_of_use/version-300824.pdf
+	https://skillbox.ru/management/
+	https://skillbox.ru/marketing/
+	https://skillbox.ru/media/
 	https://skillbox.ru/multimedia/
 	https://skillbox.ru/otzyvy/
 	https://skillbox.ru/our-great-team/
@@ -573,7 +168,6 @@ https://skillbox.ru/
 			https://skillbox.ru/sale/main/analitika/
 			https://skillbox.ru/sale/main/analiz-kadrov/
 			https://skillbox.ru/sale/main/analiz-riskov/
-			https://skillbox.ru/sale/main/anatomy/
 			https://skillbox.ru/sale/main/animatsiya-interfeysov/
 			https://skillbox.ru/sale/main/astronomiya/
 			https://skillbox.ru/sale/main/autocad/
@@ -636,14 +230,12 @@ https://skillbox.ru/
 			https://skillbox.ru/sale/main/e-mail/
 			https://skillbox.ru/sale/main/ebitda/
 			https://skillbox.ru/sale/main/edtech/
-			https://skillbox.ru/sale/main/effective-communication/
 			https://skillbox.ru/sale/main/effektivnost/
 			https://skillbox.ru/sale/main/ekonomika/
 			https://skillbox.ru/sale/main/engineering/
 			https://skillbox.ru/sale/main/english/
 			https://skillbox.ru/sale/main/evolyuciya/
 			https://skillbox.ru/sale/main/excel/
-			https://skillbox.ru/sale/main/exercises/
 			https://skillbox.ru/sale/main/fandraizing/
 			https://skillbox.ru/sale/main/fashion-design/
 			https://skillbox.ru/sale/main/fashion-sketching/
@@ -670,8 +262,6 @@ https://skillbox.ru/
 			https://skillbox.ru/sale/main/google-tablitsy/
 			https://skillbox.ru/sale/main/graficheskiy-dizayn/
 			https://skillbox.ru/sale/main/grafika-i-animaciya/
-			https://skillbox.ru/sale/main/health/
-			https://skillbox.ru/sale/main/healthy-lifestyle/
 			https://skillbox.ru/sale/main/hr-menedzher/
 			https://skillbox.ru/sale/main/hr/
 			https://skillbox.ru/sale/main/hrbp/
@@ -734,10 +324,6 @@ https://skillbox.ru/
 					https://skillbox.ru/sale/main/management/faculty/projects-and-products/
 			https://skillbox.ru/sale/main/marketing-igr/
 			https://skillbox.ru/sale/main/marketing/
-					https://skillbox.ru/sale/main/marketing/faculty/analytics/
-					https://skillbox.ru/sale/main/marketing/faculty/brand-marketing/
-					https://skillbox.ru/sale/main/marketing/faculty/electronic-commerce/
-					https://skillbox.ru/sale/main/marketing/faculty/performance-marketing/
 			https://skillbox.ru/sale/main/marketpleisy/
 			https://skillbox.ru/sale/main/matematika/
 			https://skillbox.ru/sale/main/mediaplanirovanie/
@@ -760,7 +346,6 @@ https://skillbox.ru/
 			https://skillbox.ru/sale/main/nalogi/
 			https://skillbox.ru/sale/main/neural-networks/
 			https://skillbox.ru/sale/main/nps/
-			https://skillbox.ru/sale/main/nutrition/
 			https://skillbox.ru/sale/main/oborotnyi-kapital/
 			https://skillbox.ru/sale/main/obrabotka-photografiy/
 			https://skillbox.ru/sale/main/obrazovatelnye-programmy/
@@ -798,7 +383,6 @@ https://skillbox.ru/
 			https://skillbox.ru/sale/main/pr/
 			https://skillbox.ru/sale/main/prakticheskie-zadaniya/
 			https://skillbox.ru/sale/main/predprinimatelstvo/
-			https://skillbox.ru/sale/main/preventive-medicine/
 			https://skillbox.ru/sale/main/processnyi-podkhod/
 			https://skillbox.ru/sale/main/prodazhi/
 			https://skillbox.ru/sale/main/produkt/

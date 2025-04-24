@@ -3,6 +3,7 @@ package searchengine.model;
 import lombok.Getter;
 import lombok.Setter;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.context.annotation.Bean;
 
 import javax.persistence.*;
 import java.time.Instant;
