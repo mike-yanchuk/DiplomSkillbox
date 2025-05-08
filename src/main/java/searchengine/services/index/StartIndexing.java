@@ -91,6 +91,7 @@ public class StartIndexing {
             }
             service.shutdownNow();
             startYes = false;
+            log.info("Indexing stopped successfully");
         }
     }
 

@@ -1,15 +1,13 @@
 https://playback.ru
 https://playback.ru/
+		https://playback.ru/article/contacts.html
 		https://playback.ru/article/dostavka.html
 		https://playback.ru/article/payment.html
 		https://playback.ru/article/privacy_policy.html
 		https://playback.ru/article/warranty.html
-		https://playback.ru/catalog/34.html
-		https://playback.ru/catalog/36.html
-		https://playback.ru/catalog/37.html
-		https://playback.ru/catalog/38.html
+	https://playback.ru/cart.html
+		https://playback.ru/catalog/39.html
 		https://playback.ru/catalog/40.html
-		https://playback.ru/catalog/42.html
 		https://playback.ru/article/contacts.html
 		https://playback.ru/article/dostavka.html
 		https://playback.ru/article/payment.html
